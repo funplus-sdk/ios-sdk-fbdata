@@ -1,0 +1,3 @@
+[submodule "FacebookSdk"]
+	path = FacebookSdk
+	url = https://github.com/facebook/facebook-sdk-swift.git
